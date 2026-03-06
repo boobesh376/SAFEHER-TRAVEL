@@ -192,14 +192,14 @@ class _DashboardPageState extends State<DashboardPage> with SingleTickerProvider
               padding: const EdgeInsets.all(2),
               decoration: BoxDecoration(
                 shape: BoxShape.circle,
-                border: Border.all(color: const Color(0xFF5D3891).withOpacity(0.2), width: 2),
+                border: Border.all(color: const Color(0xFFE91E8C).withOpacity(0.35), width: 2),
               ),
               child: CircleAvatar(
                 radius: 24,
-                backgroundColor: const Color(0xFFF5F5F7),
+                backgroundColor: const Color(0xFFF3E5F5),
                 child: Text(
                   _user?['name']?.substring(0, 1).toUpperCase() ?? 'S',
-                  style: const TextStyle(color: Color(0xFF5D3891), fontWeight: FontWeight.bold),
+                  style: const TextStyle(color: Color(0xFF9C27B0), fontWeight: FontWeight.bold),
                 ),
               ),
             ),
@@ -240,14 +240,14 @@ class _DashboardPageState extends State<DashboardPage> with SingleTickerProvider
       width: double.infinity,
       decoration: BoxDecoration(
         gradient: const LinearGradient(
-          colors: [Color(0xFF5D3891), Color(0xFF432C7A)],
+          colors: [Color(0xFF9C27B0), Color(0xFFE91E8C), Color(0xFFF48FB1)],
           begin: Alignment.topLeft,
           end: Alignment.bottomRight,
         ),
         borderRadius: BorderRadius.circular(24),
         boxShadow: [
           BoxShadow(
-            color: const Color(0xFF5D3891).withOpacity(0.3),
+            color: const Color(0xFFE91E8C).withOpacity(0.25),
             blurRadius: 20,
             offset: const Offset(0, 8),
           ),
