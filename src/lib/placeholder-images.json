@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-safety",
+      "description": "Safety and protection concept",
+      "imageUrl": "https://images.unsplash.com/photo-1707939634355-f97989791c91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2FmZXR5JTIwcHJvdGVjdGlvbnxlbnwwfHx8fDE3NzA0NjkzODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "safety protection"
+    },
+    {
+      "id": "hospital-map",
+      "description": "Medical facility building",
+      "imageUrl": "https://images.unsplash.com/photo-1587351021355-a479a299d2f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxob3NwaXRhbCUyMGJ1aWxkaW5nfGVufDB8fHx8MTc3MDQ2OTM4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hospital building"
+    },
+    {
+      "id": "police-station",
+      "description": "Police station or security office",
+      "imageUrl": "https://images.unsplash.com/photo-1726859136476-916f8e12e250?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cG9saWNlJTIwc3RhdGlvbnxlbnwwfHx8fDE3NzA0NjkzODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "police station"
+    },
+    {
+      "id": "hotel-safe",
+      "description": "A comfortable and safe hotel lobby",
+      "imageUrl": "https://images.unsplash.com/photo-1587702068694-a909ef4aa346?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxob3RlbCUyMGxvYmJ5fGVufDB8fHx8MTc3MDM4ODM2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hotel lobby"
+    }
+  ]
+}
